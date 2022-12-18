@@ -100,7 +100,7 @@ let moves = {
 		target: 'enemy'
 	},
 	'lick': {
-		name: 'LICK',
+		name: 'LA VILLE DE NANTES',
 		damage: 35,
 		target: 'enemy'
 	},

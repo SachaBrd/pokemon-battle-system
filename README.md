@@ -19,3 +19,23 @@ Goal of the game
 The goal of the game is to defeat the opposite trainer. In order to win you must defeat all six of the opposite trainer's Pokemon.
 
 Live site: https://deusmalsith.github.io/pokemon-battle-system/ (View on a Desktop)
+
+
+# License
+
+not my original work, this is forked from https://github.com/DeusMalsith/pokemon-battle-system
+I added some sprites and modified a few lines of code.
+
+### TODO
+
+- change sprites
+
+- add funny pokemons
+
+- add instructions on the side
+
+- Pokemons to add :
+mario balotelli
+Cloud
+Mewtwo
+Red XIII
