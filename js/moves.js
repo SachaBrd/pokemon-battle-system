@@ -100,9 +100,9 @@ let moves = {
 		target: 'enemy'
 	},
 	'lick': {
-		name: 'LA VILLE DE NANTES',
-		damage: 35,
-		target: 'enemy'
+		name: 'NANTES',
+		damage: 999,
+		target: 'self'
 	},
 	'low sweep': {
 		name: 'LOW SWEEP',

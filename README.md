@@ -39,3 +39,14 @@ mario balotelli
 Cloud
 Mewtwo
 Red XIII
+
+Pokemon allié :
+- umbreon
+- pikachu
+- squirtle
+- ivysaur
+- charizard
+- mewtwo
+
+Pokemons ennemis :
+- tous les autres

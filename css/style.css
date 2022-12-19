@@ -52,7 +52,7 @@ button:focus {
 #pkmn-name {
 	position: absolute;
 	font-family: 'pokemon-font', monospace;
-	font-size: 30px;
+	font-size: 22px;
 	color: #282d00;
 	background: transparent;
 	border: none !important;
@@ -63,7 +63,7 @@ button:focus {
 #pkmnback-name {
 	position: absolute;
 	font-family: 'pokemon-font', monospace;
-	font-size: 30px;
+	font-size: 22px;
 	color: #282d00;
 	background: transparent;
 	border: none !important;
@@ -291,6 +291,21 @@ button:focus {
 	font-size: 25px;
 	left: 158px;
 	top: 372px;
+	width: 350px;
+	height: 28px;
+	background: transparent;
+	border: none !important;
+	color: #282d00;
+	z-index: -1;
+	text-align: left;
+}
+
+#attack3 {
+	position: absolute;
+	font-family: 'pokemon-font', monospace;
+	font-size: 25px;
+	left: 158px;
+	top: 402px;
 	width: 350px;
 	height: 28px;
 	background: transparent;
